@@ -5,8 +5,8 @@
 
 :root {
     --white: #f0f0f0;
-    --red: #D94141;
-    --blue: #5005F2;
+    --red: #D92A1A;
+    --blue: #A69E33;
     --gray: #151826;
 }
 
@@ -151,7 +151,7 @@ img {
 
 .welcome > p {
     font-size: 3rem;
-    font-weight: 200;
+    font-weight: 300;
     color: var(--red);
 }
 
